@@ -3,7 +3,7 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://hernanbutler.github.io/',
     avatar: {
         src: avatar,
         alt: 'Ethan Donovan'
@@ -32,41 +32,16 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
-    ],
-    socialLinks: [
-        {
             text: 'Linkedin',
             href: 'https://www.linkedin.com/in/hernanbutler/'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
         text: "👥 Actualmente me desempeño como Product Owner Junior y Project Manager en entornos ágiles, coordinando proyectos SaaS y de desarrollo web. En este rol me enfoco en backlog management, documentación funcional y la transformación de necesidades en soluciones digitales aplicando prácticas reales",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
-        },
-        actions: [
-            {
-                text: 'Get in Touch',
-                href: '/contact'
-            }
-        ]
+        }
     },
     subscribe: {
         enabled: true,
