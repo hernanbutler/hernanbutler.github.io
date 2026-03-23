@@ -1,7 +1,7 @@
 ---
 title: 'TrainIT y el valor de la simulación'
 description: En el programa de talentos IT de TrainIT, trabajé como Project Manager Jr en un proyecto de gestión de tareas. Aunque era un entorno de simulación, el aprendizaje fue muy real...
-publishDate: 'Abr 01 2026'
+publishDate: '2026 04 01'
 seo:
   image:
     src: '../../assets/images/project-1.jpg'

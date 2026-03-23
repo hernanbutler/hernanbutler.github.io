@@ -1,7 +1,7 @@
 ---
 title: 'Ordenar comunicación y entregas en un proyecto web end-to-end'
 description: En el desarrollo de una página web científica, mi rol como Project Manager me está llevando a experimentar el valor de la claridad en la comunicación. Desde el kick-off hasta las entregas parciales, cada interacción con el cliente y el equipo necesita orden y transparencia...
-publishDate: 'Oct 25 2023'
+publishDate: '2026 04 01'
 isFeatured: true
 seo:
   image:

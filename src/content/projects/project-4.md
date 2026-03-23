@@ -1,7 +1,7 @@
 ---
 title: 'Aprendiendo a coordinar equipos distribuidos en un SaaS agrícola'
 description: Hoy estoy transitando un proyecto desafiante: la construcción de una plataforma SaaS B2B para trazabilidad agrícola. Lo interesante es que el equipo está distribuido en múltiples roles —frontend, backend, IA, QA— y cada uno aporta una pieza clave al sistema...
-publishDate: 'Abr 01 2026'
+publishDate: '2026 04 01'
 seo:
   image:
     src: '../../assets/images/project-4.jpg'

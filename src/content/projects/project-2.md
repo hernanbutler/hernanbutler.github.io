@@ -1,7 +1,7 @@
 ---
 title: 'Validar rápido: el MVP de No Country'
 description: En el MVP de aplicación web para análisis operativo, mi reto fue acelerar entregas y validar hipótesis de uso. Reducir un 30% el tiempo de entrega no fue casualidad: fue fruto de sprints bien coordinados y métricas claras...
-publishDate: 'Abr 01 2026'
+publishDate: '2026 04 01'
 isFeatured: true
 seo:
   image:
