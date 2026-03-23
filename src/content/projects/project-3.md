@@ -1,7 +1,7 @@
 ---
 title: 'Discovery y gestión de stock: lo que aprendí en Foo Talent Group'
-description: Cuando participé como Product Owner Junior en el desarrollo de una plataforma de gestión de stock, descubrí que el verdadero valor del discovery no está en acumular información, sino en escuchar con atención y ajustar el alcance...
-publishDate: '2026 04 01'
+description: 'Cuando participé como Product Owner Junior en el desarrollo de una plataforma de gestión de stock, descubrí que el verdadero valor del discovery no está en acumular información, sino en escuchar con atención y ajustar el alcance...'
+publishDate: 2026-04-01
 isFeatured: true
 seo:
   image:
