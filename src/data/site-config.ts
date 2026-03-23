@@ -1,13 +1,7 @@
-import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
     website: 'https://hernanbutler.github.io/',
-    avatar: {
-        src: avatar,
-        alt: 'Ethan Donovan'
-    },
     title: 'Hernan Butler',
     subtitle: 'Product Owner & PM Jr | Priorización | Discovery | Gestión de Backlog | Métricas de Producto | Transformando ideas en productos digitales mediante metodologías ágiles | Técnico en Desarrollo Web',
     description: '',
