@@ -32,10 +32,6 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         text: "👥 Actualmente me desempeño como Product Owner Junior y Project Manager en entornos ágiles, coordinando proyectos SaaS y de desarrollo web. En este rol me enfoco en backlog management, documentación funcional y la transformación de necesidades en soluciones digitales aplicando prácticas reales",
-        image: {
-            src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
-        }
     },
     subscribe: {
         enabled: true,
