@@ -8,9 +8,9 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Hernan Butler',
+    subtitle: 'Product Owner & PM Jr | Priorización | Discovery | Gestión de Backlog | Métricas de Producto | Transformando ideas en productos digitales mediante metodologías ágiles | Técnico en Desarrollo Web',
+    description: '',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -28,10 +28,7 @@ const siteConfig: SiteConfig = {
             text: 'Blog',
             href: '/blog'
         },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
+       
     ],
     footerNavLinks: [
         {
@@ -53,21 +50,13 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Linkedin',
+            href: 'https://www.linkedin.com/in/hernanbutler/'
         }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "👥 Actualmente me desempeño como Product Owner Junior y Project Manager en entornos ágiles, coordinando proyectos SaaS y de desarrollo web. En este rol me enfoco en backlog management, documentación funcional y la transformación de necesidades en soluciones digitales aplicando prácticas reales",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
